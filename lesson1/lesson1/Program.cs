@@ -6,6 +6,8 @@ namespace lesson1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("defrf");
+            Console.WriteLine("dfsfsf");
         }
     }
 }
