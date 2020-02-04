@@ -9,7 +9,7 @@ namespace lesson1
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Hello World 1");
-            
+            Console.WriteLine("desfcv");
 
         }
         static void method2()
