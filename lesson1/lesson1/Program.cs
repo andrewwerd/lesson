@@ -9,8 +9,13 @@ namespace lesson1
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Hello World 1");
-            Console.WriteLine("abracadabra");
-            Console.WriteLine("abracadabra");
+            
+
+        }
+        static void method1()
+        {
+            Console.WriteLine("New method");
+
         }
     }
 }
