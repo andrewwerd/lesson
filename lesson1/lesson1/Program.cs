@@ -14,7 +14,7 @@ namespace lesson1
         }
         static void method2()
         {
-            Console.WriteLine("New method jmhjmuumju");
+            Console.WriteLine("New method");
 
         }
     }
